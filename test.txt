@@ -1,10 +1,1 @@
-aa
-c
-b
-e
-d
-
-zz
-zart zurt cırt
-
-vv
+Deneme amaçlı bir repo
